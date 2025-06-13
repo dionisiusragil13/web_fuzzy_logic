@@ -1,0 +1,20 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+
+# Framework-specific ignores (e.g., Flask instance folder)
+instance/
+
+# Jupyter Notebook files
+*.ipynb
+
+# Dataset files
+*.csv
+
+# Dependencies/virtual environment (jika ada)
+# venv/
+# .env
+
+# Operating System specific files
+.DS_Store # macOS
+Thumbs.db # Windows
